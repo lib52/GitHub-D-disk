@@ -10716,10 +10716,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mattew\\Documents\\Visual Studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "D:\\GitHub\\7420\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\Mattew\\Documents\\Visual Studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
-      "outputPath": "C:\\Users\\Mattew\\Documents\\Visual Studio 2017\\Projects\\ContosoUniversity\\ContosoUniversity\\obj\\",
+      "projectPath": "D:\\GitHub\\7420\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "outputPath": "D:\\GitHub\\7420\\ContosoUniversity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
