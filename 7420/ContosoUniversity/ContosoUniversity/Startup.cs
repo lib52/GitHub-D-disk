@@ -33,7 +33,7 @@ namespace ContosoUniversity
             services.AddDbContext<SchoolContext>(options1 =>
                 options1.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-            services.AddMvc();
+            services.AddMvc();//comment
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
